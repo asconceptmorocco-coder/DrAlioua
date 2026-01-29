@@ -22,7 +22,7 @@ const Header = () => {
               <Heart className="text-primary-foreground" size={24} fill="currentColor" />
             </div>
             <div className="hidden sm:block">
-              <span className="font-display font-bold text-foreground text-lg">Dr. Nadia Aliouasssss</span>
+              <span className="font-display font-bold text-foreground text-lg">Dr. Nadia Alioua</span>
               <span className="block text-xs text-primary font-semibold">Pédiatre</span>
             </div>
           </a>
